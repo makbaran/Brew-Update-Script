@@ -10,5 +10,3 @@ brew cleanup
 echo "cleanup complete"
 brew doctor
 echo "doctor complete"
-
-#test 
