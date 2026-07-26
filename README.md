@@ -11,7 +11,7 @@ To install brew you can go to [**brew.sh**](https://brew.sh/).
 
 Now you can clone this repo by copying this command into your terminal: `git clone https://github.com/makbaran/Brewing-it-Updater.git`
 
-Go into the new folder: `cd Brew-it-Updater`
+Go into the new folder: `cd Brewing-it-Updater`
 
 Then give script executable rights: `chmod +x brew.sh`
 
