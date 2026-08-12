@@ -7,7 +7,7 @@
 Make sure that you are on a Mac and have brew installed!
 To install brew you can go to [**brew.sh**](https://brew.sh/).
 
-## Installation
+## Manual Installation
 
 Now you can clone this repo by copying this command into your terminal: `git clone https://github.com/makbaran/Brewing-it-Updater.git`
 
